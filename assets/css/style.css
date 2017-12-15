@@ -1,4 +1,3 @@
-<!-- css -->
 section#personal div,
 section#social div,
 section#resources div {
@@ -41,4 +40,5 @@ section#social {
       Change 400px to 40%  */
     grid-template-columns: 1fr 400px;
 }
-</css>
+
+
