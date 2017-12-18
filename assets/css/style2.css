@@ -24,5 +24,4 @@ p{
 .wrapper {
 	background-color:darkblue;
 	display: grid;
-  	grid-template-columns: 1fr 1fr 1fr;
 }
